@@ -1,1 +1,1 @@
-# sliderPuzzle
+#sliding-Puzzle
