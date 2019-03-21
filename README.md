@@ -1,2 +1,1 @@
-#sliding-Puzzle
-#Run .Html file to play the game
+#Run .Html file to play the sliding-Puzzle game
